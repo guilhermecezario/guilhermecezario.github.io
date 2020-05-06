@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.9801e1f5.chunk.css",
-    "main.js": "/static/js/main.abcf793d.chunk.js",
-    "main.js.map": "/static/js/main.abcf793d.chunk.js.map",
+    "main.css": "/static/css/main.94da0275.chunk.css",
+    "main.js": "/static/js/main.0c1688c9.chunk.js",
+    "main.js.map": "/static/js/main.0c1688c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.7f19d07b.chunk.js": "/static/js/2.7f19d07b.chunk.js",
-    "static/js/2.7f19d07b.chunk.js.map": "/static/js/2.7f19d07b.chunk.js.map",
+    "static/js/2.e899d0d5.chunk.js": "/static/js/2.e899d0d5.chunk.js",
+    "static/js/2.e899d0d5.chunk.js.map": "/static/js/2.e899d0d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e2905f61557826551b56efd5f289a960.js": "/precache-manifest.e2905f61557826551b56efd5f289a960.js",
+    "precache-manifest.db47e753c7a847629f6ad8bfd1c23f27.js": "/precache-manifest.db47e753c7a847629f6ad8bfd1c23f27.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9801e1f5.chunk.css.map": "/static/css/main.9801e1f5.chunk.css.map",
-    "static/js/2.7f19d07b.chunk.js.LICENSE.txt": "/static/js/2.7f19d07b.chunk.js.LICENSE.txt",
+    "static/css/main.94da0275.chunk.css.map": "/static/css/main.94da0275.chunk.css.map",
+    "static/js/2.e899d0d5.chunk.js.LICENSE.txt": "/static/js/2.e899d0d5.chunk.js.LICENSE.txt",
     "static/media/Procrastinating.svg": "/static/media/Procrastinating.fbe2bc37.svg",
     "static/media/github.svg": "/static/media/github.2ef81c65.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.c733b26a.svg",
     "static/media/logo.svg": "/static/media/logo.5f257e78.svg",
-    "static/media/profile.jpg": "/static/media/profile.b265fe90.jpg",
+    "static/media/nodejs.svg": "/static/media/nodejs.1ff8509e.svg",
+    "static/media/profile.jpg": "/static/media/profile.f9cbeb12.jpg",
+    "static/media/react-native.svg": "/static/media/react-native.35ba2afc.svg",
+    "static/media/reactjs.svg": "/static/media/reactjs.cf39314c.svg",
     "static/media/twitter.svg": "/static/media/twitter.eab44233.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
-    "static/js/2.7f19d07b.chunk.js",
-    "static/css/main.9801e1f5.chunk.css",
-    "static/js/main.abcf793d.chunk.js"
+    "static/js/2.e899d0d5.chunk.js",
+    "static/css/main.94da0275.chunk.css",
+    "static/js/main.0c1688c9.chunk.js"
   ]
 }
